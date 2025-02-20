@@ -1,0 +1,12 @@
+family_language_pairs
+cycloneive verilog
+cycloneive vhdl
+cycloneive verilog
+cycloneive vhdl
+cycloneive verilog
+cycloneive vhdl
+cycloneive verilog
+cycloneive vhdl
+cycloneive verilog
+cycloneive vhdl
+end family_language pairs

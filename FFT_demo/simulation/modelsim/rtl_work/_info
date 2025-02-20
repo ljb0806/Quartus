@@ -1,0 +1,167 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/simulation/modelsim
+vfft
+Z1 !s110 1738827204
+!i10b 1
+!s100 dEU_Z^?<95Ld3m=12hCgY0
+IZB9HYea]JBQLW54@dTVoH2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1737444112
+8D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/fft/simulation/fft.v
+FD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/fft/simulation/fft.v
+L0 6
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1738827204.000000
+!s107 D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/fft/simulation/fft.v|
+!s90 -reportprogress|300|D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/fft/simulation/fft.v|
+!i113 1
+Z5 tCvgOpt 0
+vFFT_demo
+R1
+!i10b 1
+!s100 F1gTo^2Um^i4m1>em_o@O0
+IWP<3Rda[d1V8`6?7>aB1E2
+R2
+R0
+w1737464093
+8D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/FFT_demo.v
+FD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/FFT_demo.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/FFT_demo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo|D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/FFT_demo.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo
+R5
+n@f@f@t_demo
+vFFT_demo_vlg_tst
+Z8 !s110 1738827205
+!i10b 1
+!s100 @V87c4nR`P^=3[6zh5JmF3
+Id7RD>6SJz0F=<d5;RB[IO2
+R2
+R0
+w1737533644
+8D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/simulation/modelsim/FFT_demo.vt
+FD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/simulation/modelsim/FFT_demo.vt
+L0 28
+R3
+r1
+!s85 0
+31
+Z9 !s108 1738827205.000000
+!s107 D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/simulation/modelsim/FFT_demo.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/simulation/modelsim|D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/simulation/modelsim/FFT_demo.vt|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/simulation/modelsim
+R5
+n@f@f@t_demo_vlg_tst
+vget_phase
+R1
+!i10b 1
+!s100 T_j^Ec9NfP?Z<a7bLi03k0
+I1FOF1ZhaFniS8jfnmSbTf3
+R2
+R0
+w1737461721
+8D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/get_phase.v
+FD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/get_phase.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/get_phase.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo|D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/get_phase.v|
+!i113 1
+R6
+R7
+R5
+vPLL_200M
+R8
+!i10b 1
+!s100 <ImEmS9cN]>@A@gP0XAj_2
+IE<0Q1^@enEbBg;UCnTigX2
+R2
+R0
+w1737461862
+8D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/PLL_200M.v
+FD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/PLL_200M.v
+Z10 L0 39
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/PLL_200M.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo|D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/PLL_200M.v|
+!i113 1
+R6
+R7
+R5
+n@p@l@l_200@m
+vPLL_200M_altpll
+R8
+!i10b 1
+!s100 SgS@OZSJQ@K<LBRA[6Z2W3
+I^i@FWkcb^hlNl;;O2YKkV3
+R2
+R0
+w1737462041
+8D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/db/pll_200m_altpll.v
+FD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/db/pll_200m_altpll.v
+L0 29
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/db/pll_200m_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/db|D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/db/pll_200m_altpll.v|
+!i113 1
+R6
+!s92 -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/db
+R5
+n@p@l@l_200@m_altpll
+vSINROM
+R8
+!i10b 1
+!s100 n6W7W[4cAG3P1[F6M]b5d0
+IiQ1I=Qeh1H5RIoDh0`O=`1
+R2
+R0
+w1737461813
+8D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/SINROM.v
+FD:/datas/project/Quartus_project/FPGA_modules/FFT_demo/SINROM.v
+R10
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/SINROM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/FFT_demo|D:/datas/project/Quartus_project/FPGA_modules/FFT_demo/SINROM.v|
+!i113 1
+R6
+R7
+R5
+n@s@i@n@r@o@m

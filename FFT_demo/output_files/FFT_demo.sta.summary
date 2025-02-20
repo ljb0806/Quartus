@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : 0.908
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.345
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.349
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : 9.471
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : 0.893
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.725
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.334
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.348
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.500
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : 3.063
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 3.366
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.115
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'PLL_200M_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.233
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : 9.371
+TNS   : 0.000
+
+------------------------------------------------------------

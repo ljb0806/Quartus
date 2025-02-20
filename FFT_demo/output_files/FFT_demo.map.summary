@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 21 20:55:15 2025
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : FFT_demo
+Top-level Entity Name : FFT_demo
+Family : Cyclone IV E
+Total logic elements : 1,712
+    Total combinational functions : 1,348
+    Dedicated logic registers : 1,250
+Total registers : 1250
+Total pins : 71
+Total virtual pins : 0
+Total memory bits : 76,992
+Embedded Multiplier 9-bit elements : 20
+Total PLLs : 1
