@@ -1,2 +1,3 @@
 # Quartus
 一些FPGA代码
+实现了DDS产生正弦信号和FFT，需要使用quartus与modelsim的联合仿真查看效果，也可直接使用
