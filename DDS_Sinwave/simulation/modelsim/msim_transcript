@@ -1,0 +1,105 @@
+# Reading D:/intelFPGA/modelsim_ase/tcl/vsim/pref.tcl
+# do DDS_Sinwave_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying D:/intelFPGA/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave {D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/DDS_Sinwave.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:27:11 on Jan 21,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave" D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/DDS_Sinwave.v 
+# -- Compiling module DDS_Sinwave
+# 
+# Top level modules:
+# 	DDS_Sinwave
+# End time: 19:27:11 on Jan 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave {D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/PLL_200M.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:27:11 on Jan 21,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave" D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/PLL_200M.v 
+# -- Compiling module PLL_200M
+# 
+# Top level modules:
+# 	PLL_200M
+# End time: 19:27:11 on Jan 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave {D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/SINROM.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:27:11 on Jan 21,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave" D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/SINROM.v 
+# -- Compiling module SINROM
+# 
+# Top level modules:
+# 	SINROM
+# End time: 19:27:11 on Jan 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave {D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/get_phase.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:27:11 on Jan 21,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave" D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/get_phase.v 
+# -- Compiling module get_phase
+# 
+# Top level modules:
+# 	get_phase
+# End time: 19:27:11 on Jan 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db {D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db/pll_200m_altpll.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:27:11 on Jan 21,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db" D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db/pll_200m_altpll.v 
+# -- Compiling module PLL_200M_altpll
+# 
+# Top level modules:
+# 	PLL_200M_altpll
+# End time: 19:27:11 on Jan 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim {D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim/DDS_Sinwave.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 19:27:11 on Jan 21,2025
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim" D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim/DDS_Sinwave.vt 
+# -- Compiling module DDS_Sinwave_vlg_tst
+# 
+# Top level modules:
+# 	DDS_Sinwave_vlg_tst
+# End time: 19:27:11 on Jan 21,2025, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  DDS_Sinwave_vlg_tst
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" DDS_Sinwave_vlg_tst 
+# Start time: 19:27:12 on Jan 21,2025
+# Loading work.DDS_Sinwave_vlg_tst
+# Loading work.DDS_Sinwave
+# Loading work.PLL_200M
+# Loading altera_mf_ver.altpll
+# Loading altera_mf_ver.ALTERA_DEVICE_FAMILIES
+# Loading altera_mf_ver.pll_iobuf
+# Loading work.SINROM
+# Loading altera_mf_ver.altsyncram
+# Loading work.get_phase
+# Loading altera_mf_ver.MF_cycloneiii_pll
+# Loading altera_mf_ver.cda_m_cntr
+# Loading altera_mf_ver.cda_n_cntr
+# Loading altera_mf_ver.cda_scale_cntr
+# Loading altera_mf_ver.altsyncram_body
+# Loading altera_mf_ver.ALTERA_MF_MEMORY_INITIALIZATION
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#  Note : Cyclone IV E PLL locked to incoming clock
+# Time: 130000  Instance: DDS_Sinwave_vlg_tst.i1.PLL_200M_inst.altpll_component.cycloneiii_pll.pll3
+# Break key hit
+# Break in Module MF_cycloneiii_pll in file /build/swbuild/SJ/nightly/18.1std/625/l64/work/modelsim/eda/sim_lib/altera_mf.v
+# End time: 19:29:15 on Jan 21,2025, Elapsed time: 0:02:03
+# Errors: 0, Warnings: 0

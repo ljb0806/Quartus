@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 21 19:24:08 2025
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : DDS_Sinwave
+Top-level Entity Name : DDS_Sinwave
+Family : Cyclone IV E
+Total logic elements : 94
+    Total combinational functions : 94
+    Dedicated logic registers : 32
+Total registers : 32
+Total pins : 46
+Total virtual pins : 0
+Total memory bits : 49,152
+Embedded Multiplier 9-bit elements : 8
+Total PLLs : 1

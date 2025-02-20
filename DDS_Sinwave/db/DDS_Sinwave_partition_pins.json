@@ -1,0 +1,189 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "sinwave[0]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[1]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[2]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[3]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[4]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[5]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[6]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[7]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[8]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[9]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[10]",
+					"strict" : false
+				},
+				{
+					"name" : "sinwave[11]",
+					"strict" : false
+				},
+				{
+					"name" : "rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[18]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[19]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[20]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[21]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[22]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[23]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[24]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[25]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[26]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[27]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[28]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[29]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[30]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[31]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[0]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[1]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[2]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[3]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[4]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[5]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[6]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[7]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[8]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[9]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[10]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[11]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[12]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[13]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[14]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[15]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[16]",
+					"strict" : false
+				},
+				{
+					"name" : "frequency[17]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

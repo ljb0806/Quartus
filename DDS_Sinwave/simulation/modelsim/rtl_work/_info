@@ -1,0 +1,147 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim
+vDDS_Sinwave
+Z1 !s110 1737458831
+!i10b 1
+!s100 K2QS[@BLCk>:Z@@NAl60J1
+IX?3`NCTWhRAUHjXJk@]VY1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1737458634
+8D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/DDS_Sinwave.v
+FD:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/DDS_Sinwave.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1737458831.000000
+!s107 D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/DDS_Sinwave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave|D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/DDS_Sinwave.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave
+Z7 tCvgOpt 0
+n@d@d@s_@sinwave
+vDDS_Sinwave_vlg_tst
+R1
+!i10b 1
+!s100 >hPHgGl9]SjGFIecTNQ`53
+I@B6KCKPV<7[]>1jl1TVTa3
+R2
+R0
+w1737458822
+8D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim/DDS_Sinwave.vt
+FD:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim/DDS_Sinwave.vt
+L0 28
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim/DDS_Sinwave.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim|D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim/DDS_Sinwave.vt|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/simulation/modelsim
+R7
+n@d@d@s_@sinwave_vlg_tst
+vget_phase
+R1
+!i10b 1
+!s100 T_j^Ec9NfP?Z<a7bLi03k0
+IfjeY?i[9BFkD^EC`Te5g50
+R2
+R0
+w1737458543
+8D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/get_phase.v
+FD:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/get_phase.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/get_phase.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave|D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/get_phase.v|
+!i113 1
+R5
+R6
+R7
+vPLL_200M
+R1
+!i10b 1
+!s100 <ImEmS9cN]>@A@gP0XAj_2
+ILD?mBdLmn9nEQfB=]nc6:2
+R2
+R0
+w1737454109
+8D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/PLL_200M.v
+FD:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/PLL_200M.v
+Z8 L0 39
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/PLL_200M.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave|D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/PLL_200M.v|
+!i113 1
+R5
+R6
+R7
+n@p@l@l_200@m
+vPLL_200M_altpll
+R1
+!i10b 1
+!s100 SgS@OZSJQ@K<LBRA[6Z2W3
+IFn:hDAk`2@A0S3S3:Qg8C0
+R2
+R0
+w1737458647
+8D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db/pll_200m_altpll.v
+FD:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db/pll_200m_altpll.v
+L0 29
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db/pll_200m_altpll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db|D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db/pll_200m_altpll.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/db
+R7
+n@p@l@l_200@m_altpll
+vSINROM
+R1
+!i10b 1
+!s100 n6W7W[4cAG3P1[F6M]b5d0
+I0eZ>1iNGV7BKUg95`]VOb2
+R2
+R0
+w1737457935
+8D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/SINROM.v
+FD:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/SINROM.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/SINROM.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave|D:/datas/project/Quartus_project/FPGA_modules/DDS_Sinwave/SINROM.v|
+!i113 1
+R5
+R6
+R7
+n@s@i@n@r@o@m
